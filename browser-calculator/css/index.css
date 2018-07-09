@@ -42,12 +42,20 @@ body {
 }
 
 #zero {
-  width: 225px;
+  width: 108px;
 }
 
+#dot {
+  width: 108px;
+}
 #clear {
   background: #CF7C43;
-  width: 147px;
+  width: 72px;
+}
+
+#backOne {
+  background: #CF7C43;
+  width: 72px;
 }
 
 #clear:active {
@@ -98,5 +106,5 @@ body {
 }
 
 .grey{
-  background: #aaa;
+  background: red;
 }
